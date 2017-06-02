@@ -15,6 +15,6 @@ ratings_score:
 ratings_average:
   - "0"
 views:
-  - "195"
+  - "196"
 ---
-[:en]Je veux vous signaler mon départ.[:es]<img class="alignnone size-medium wp-image-242" src="http://localhost/community/wp-content/uploads/2017/05/backgroundImove-250x150.png" alt="" width="250" height="150" />Je veux vous signaler mon départ.[:]
+Je veux vous signaler mon départ.
