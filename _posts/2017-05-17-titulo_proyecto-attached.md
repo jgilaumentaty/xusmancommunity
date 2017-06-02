@@ -16,5 +16,7 @@ ratings_average:
   - "0"
 views:
   - "196"
+attachments:
+  - '{"attachments":[{"id":"242","fields":{"title":"backgroundImove","caption":""}}]}'
 ---
 Je veux vous signaler mon départ.
