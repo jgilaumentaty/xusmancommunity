@@ -15,8 +15,8 @@ ratings_score:
 ratings_average:
   - "0"
 views:
-  - "196"
+  - "226"
 attachments:
-  - '{"attachments":[{"id":"242","fields":{"title":"backgroundImove","caption":""}}]}'
+  - '{"attachments":[{"id":"242","fields":{"title":"backgroundImove","caption":""}},{"id":"37","fields":{"title":"Avatar for UserID 2","caption":""}}]}'
 ---
 Je veux vous signaler mon départ.
