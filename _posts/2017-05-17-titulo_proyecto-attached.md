@@ -15,8 +15,6 @@ ratings_score:
 ratings_average:
   - "0"
 views:
-  - "228"
-attachments:
-  - '{"attachments":[{"id":"264","fields":{"title":"c4b21ea020b4d95c4abacaffc9daaf4e","caption":""}}]}'
+  - "229"
 ---
 Je veux vous signaler mon départ.
