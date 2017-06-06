@@ -1,6 +1,6 @@
 ---
 ID: 267
-post_title: Download File
+post_title: DownloadFile
 author: admin
 post_date: 2017-06-06 09:42:03
 post_excerpt: ""
